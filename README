@@ -1,0 +1,15 @@
+Morpion
+
+COMPILATION
+
+  Pour compiler le programme, il faut executer la commande suivante à la racine du projet:
+    make
+
+  Pour nettoyer les fichiers générés pendant la compilation, il faut executer la commande suivante à la racine du projet:
+    make clean
+
+EXECUTION
+
+  Pour executer le programme, il faut executer la commande suivante :
+    ./Morpion
+
